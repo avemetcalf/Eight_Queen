@@ -11,6 +11,10 @@ public class EightQueen {
 	    }
 	    
 
+	    public int getRow() {
+	        return row;
+	    }
+
 	    public void move () {
 	        row++;
 	    }
@@ -29,12 +33,6 @@ public class EightQueen {
 	            return false;
 	        }
 	    }
-	    
-
-	    public int getRow() {
-	        return row;
-	    }
-
 
 	    public int getColumn() {
 	        return column;
