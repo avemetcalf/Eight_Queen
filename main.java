@@ -3,14 +3,14 @@ import java.util.Random;
 public class main {
 
 
-	//count for number of state changes
-    private static int Changes = 0;
     //value for heuristic
     private static int heuristic = 0;
-    //value for number of better heuristic
-    private static int betterHeuristics = 0;
     //number of random restarts
     private static int Restart = 0;
+  //count for number of state changes
+    private static int Changes = 0;
+    //Value of heuristic2
+    private static int betterHeuristics = 0;
     
     
     public static void main(String[] args) {
