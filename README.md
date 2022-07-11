@@ -6,7 +6,7 @@
 
 3: Create New Java Project
 
-4: In drop down for project right click source -> New -> Class
+4: In drop down for project right click Source -> New -> Class
 
 5: Create 2 classes one named "main" the other named "EightQueen"
 
